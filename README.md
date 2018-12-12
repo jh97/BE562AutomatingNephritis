@@ -1,7 +1,8 @@
 # BE562 Automating Nephritis Detection in Kidney Biopsies Using Nuclei Segmentation and GMMs
 
-## MANA
 Written in MATLAB R2018a
+
+## MANA
 
 The MANA code includes three files: MANA.m, PWM.m, and MedianArea.m
 
@@ -13,7 +14,7 @@ MANA paper: https://biomedical-engineering-online.biomedcentral.com/articles/10.
 
 ## GMMs
 
-To implement the GMMs and density thresholding, run GMM_DensityThresholding.m on MATLAB.
+To implement the GMMs and density thresholding, run GMM_DensityThresholding.m
 
 The GMM contains 4 files, a description of each is below. 
 
