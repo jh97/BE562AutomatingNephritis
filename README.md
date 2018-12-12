@@ -7,4 +7,6 @@ The MANA code includes three files. Due to lack of clarity in the MANA paper, th
 
 To generate nuclei centers, run MANA.m 
 
+MANA paper: https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-018-0518-0
+
 ## GMMs
